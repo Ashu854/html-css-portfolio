@@ -1,0 +1,65 @@
+.heading{
+    color: #66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+
+
+.container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+    text-align: center;
+}
+.img {
+    height: 100px;
+    border-radius: 50%;
+    align-items: center;
+}
+.profile {
+    margin: 10px;
+    text-align: center;
+    color: #66bfbf;
+    font-size: 2rem;
+}
+.para{
+    color: black;
+    font-size: 1rem;
+    list-style: none;
+}
+.skills {
+    text-align: center;
+    color: hwb(180 40% 25%);
+    font-size: 1.5rem;
+}
+.btn{
+    text-align: center;
+    border-radius: 8%;
+    background-color: aqua;
+    border: none;
+    color: beige;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.button{
+    text-align: center;
+    margin: 100px;
+}
+.bottom-container {
+    text-align: center;
+    background-color: hwb(180 40% 25%);
+    padding: 50px 0px 20px;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 1rem;
+    padding: 20px 0;
+}
+.footer-link {
+    display: contents;
+    color: beige;
+    list-style: none;
+}
